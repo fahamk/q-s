@@ -1,0 +1,10 @@
+{
+  "name": "express-html",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "*",
+    "cfenv": "1.0.x",
+    "express": "*",
+    "nodemailer": "^4.6.7"
+  }
+}
