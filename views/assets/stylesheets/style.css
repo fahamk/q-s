@@ -117,7 +117,7 @@
 	}
 
 .quran-translate p {
-	line-height:18px;
+	line-height:20px;
 	padding:5px 0;
 	}
 
@@ -130,7 +130,7 @@
 	padding:10px 0;
 	}
 .diff-list li span {
-	font-size:18px;
+	font-size:20px;
 	}
 
 .related-course h3 {
@@ -296,7 +296,7 @@
 }
 
 body {
-	font: 13px/24px "Roboto", sans-serif;
+	font: 15px/26px "Roboto", sans-serif;
 	font-weight: 400;
 	background-color: #fff;
 	color: #0;
