@@ -103,6 +103,11 @@
 	background:#ffff00 none repeat scroll 0 0;
 }
 
+.videoHeader {
+	font-size: 30px;
+	padding-top: 100px;
+}
+
 .quran-translate h3 {
 	font-size:24px;
 	font-weight:bold;
@@ -1344,6 +1349,13 @@ input[type="color"],
 	position: relative;
     background: #eaeaea;
     padding: 33px;
+}
+
+.page-title-video {
+	position: relative;
+    padding: 20px;
+	background: #f8f8f8;
+	font-size: 40px
 }
 
 .page-title .page-title-heading h2 {
