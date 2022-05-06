@@ -33,8 +33,6 @@ app.get('/',function(req,res){
 });
 
 app.post('/submitContact',function(req,res){
-  console.log("Got some info")
-  console.log(req.body.txtName)
   var name=req.body.txtName
   var email= req.body.txtEmail
   var subject= req.body.txtSubject
@@ -43,7 +41,7 @@ app.post('/submitContact',function(req,res){
   service: 'gmail',
     auth: {
       user: 'mmkhann@gmail.com',
-      pass: 'llmmk098'
+      pass: ''
     }
   });
 
